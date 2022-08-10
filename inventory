@@ -4,3 +4,6 @@ relay-1-lx.cema.centimani.io:7171
 [relay_2_d]
 
 [web_server]
+
+[workstations]
+relay-1-lx.cema.centimani.io:7171
